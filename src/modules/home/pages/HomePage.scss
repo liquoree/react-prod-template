@@ -1,0 +1,20 @@
+.page {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  text-align: center;
+
+  h1 {
+    margin-bottom: 16px;
+    font-size: 48px;
+  }
+
+  p {
+    color: #666;
+    font-size: 18px;
+  }
+}
